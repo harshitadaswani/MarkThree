@@ -10,7 +10,7 @@ function add(n1 , n2)
 // calling the function
 console.log(add(5,6));
 
-// extra
+// bonus
 
 // declaration of product function
 function prod(m1 , m2)
